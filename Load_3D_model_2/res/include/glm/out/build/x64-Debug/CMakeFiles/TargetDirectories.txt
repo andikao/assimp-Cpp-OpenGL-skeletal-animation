@@ -1,0 +1,3 @@
+C:/Users/andre/source/repos/assimp-Cpp-OpenGL-skeletal-animation/Load_3D_model_2/res/include/glm/out/build/x64-Debug/CMakeFiles/glm_dummy.dir
+C:/Users/andre/source/repos/assimp-Cpp-OpenGL-skeletal-animation/Load_3D_model_2/res/include/glm/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/andre/source/repos/assimp-Cpp-OpenGL-skeletal-animation/Load_3D_model_2/res/include/glm/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
